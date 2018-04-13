@@ -4,6 +4,7 @@ public class tset {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int n,d;
+		Math.pow(2, 63);
         Scanner in=new Scanner(System.in);
         n=in.nextInt();
         d=in.nextInt();

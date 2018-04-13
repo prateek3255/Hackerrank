@@ -8,7 +8,8 @@ public class JavaHashSet {
 		if(h.add("j"))
 		System.out.println(h.size());
 		else
-			System.out.println("hut");// TODO Auto-generated method stub
+			System.out.println("hut");
+		// TODO Auto-generated method stub
 
 	}
 
